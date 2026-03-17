@@ -139,6 +139,6 @@ It also improved problem-solving skills and debugging ability while working with
 
 ###  Multi API Menu
 
-![Multi API](ai_api_intg/screenshots/Multi_api.png)
+![Multi API](ai_api_intg/screenshots/Multi-api.png)
 
 ---
