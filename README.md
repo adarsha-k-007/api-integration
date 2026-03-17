@@ -123,19 +123,19 @@ It also improved problem-solving skills and debugging ability while working with
 
 ###  Groq Output
 
-![Groq](ai_api_intg/screenshots/groq.png)
+![Groq](ai_api_intg/screenshots/Groq-api.png)
 
 ###  Hugging Face Output
 
-![HuggingFace](ai_api_intg/screenshots/huggingface.png)
+![HuggingFace](ai_api_intg/screenshots/Huggingface-api.png)
 
 ###  Cohere Output
 
-![Cohere](ai_api_intg/screenshots/cohere.png)
+![Cohere](ai_api_intg/screenshots/Cohere-api.png)
 
 ###  Ollama Output
 
-![Ollama](ai_api_intg/screenshots/ollama.png)
+![Ollama](ai_api_intg/screenshots/Ollama-api.png)
 
 ###  Multi API Menu
 
